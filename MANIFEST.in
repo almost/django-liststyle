@@ -1,0 +1,2 @@
+include README
+include liststyle/templates/admin/change_list_results.html
